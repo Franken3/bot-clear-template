@@ -1,4 +1,6 @@
 # Шаблон телеграм бот 
+![](https://github.com/franken3/bot-clear-template/blob/main/utils/nyancat-rainbow.gif)
+
 
 Чистый шаблон телеграм бота на aiogram 
 
