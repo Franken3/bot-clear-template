@@ -8,4 +8,4 @@
 
 
 
-![](https://tenor.com/ru/view/anime-computer-girl-typing-gif-7944313)
+![](https://github.com/franken3/bot-clear-template/blob/main/utils/anime-computer.gif)
