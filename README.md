@@ -9,7 +9,7 @@
 
 0) Токен бота пихаем в .env
 
-1) В терминал пишем pip install -r requiremenst.txt
+1) В терминал пишем pip install -r requirements.txt
 
 2) Все хендлеры пишем в хендлерах, а дальше в не забываем регнуть в __init__.py
 
